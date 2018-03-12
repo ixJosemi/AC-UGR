@@ -1,0 +1,49 @@
+Id/home/C3estudiante9 usuario del trabajo: C3estudiante9
+Id/home/C3estudiante9 del trabajo: 57541.atcgrid
+Nombre del trabajo especificado por usuario: pmtv-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/C3estudiante9
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+static y chunk por defecto
+Tiempo = 0.045925681	 Primera = 230400	 Ultima=15
+static y chunk 1
+Tiempo = 0.051764175	 Primera = 230400	 Ultima=15
+static y chunk 64
+Tiempo = 0.041075576	 Primera = 230400	 Ultima=15
+dynamic y chunk por defecto
+Tiempo = 0.043508332	 Primera = 230400	 Ultima=15
+dynamic y chunk 1
+Tiempo = 0.048922013	 Primera = 230400	 Ultima=15
+dynamic y chunk 64
+Tiempo = 0.040813267	 Primera = 230400	 Ultima=15
+guided y chunk por defecto
+Tiempo = 0.049312804	 Primera = 230400	 Ultima=15
+guided y chunk 1
+Tiempo = 0.044071957	 Primera = 230400	 Ultima=15
+guided y chunk 64
+Tiempo = 0.049844872	 Primera = 230400	 Ultima=15

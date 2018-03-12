@@ -1,0 +1,51 @@
+Id/home/C3estudiante9 usuario del trabajo: C3estudiante9
+Id/home/C3estudiante9 del trabajo: 57567.atcgrid
+Nombre del trabajo especificado por usuario: pmm-secuencial
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/C3estudiante9
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Tiempo secuencial con 100
+Tiempo = 0.002077294	 Primera = 400	 Ultima=400
+Tiempo secuencial con 250
+Tiempo = 0.030015221	 Primera = 1000	 Ultima=1000
+Tiempo secuencial con 500
+Tiempo = 0.350686498	 Primera = 2000	 Ultima=2000
+Tiempo secuencial con 1000
+Tiempo = 10.993756350	 Primera = 4000	 Ultima=4000
+Tiempo secuencial con 1500
+Tiempo = 38.881811189	 Primera = 6000	 Ultima=6000
+Tiempo con cuatro threads con 100
+Tiempo = 0.000804752	 Primera = 400	 Ultima=400
+Tiempo con cuatro threads con 250
+Tiempo = 0.011042278	 Primera = 1000	 Ultima=1000
+Tiempo con cuatro threads con 500
+Tiempo = 0.102463845	 Primera = 2000	 Ultima=2000
+Tiempo con cuatro threads con 1000
+Tiempo = 2.740818869	 Primera = 4000	 Ultima=4000
+Tiempo con cuatro threads con 1500
+Tiempo = 9.838202674	 Primera = 6000	 Ultima=6000
